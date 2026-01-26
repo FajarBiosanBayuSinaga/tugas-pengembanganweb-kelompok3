@@ -121,7 +121,7 @@ Kami adalah mahasiswa yang bersemangat dalam pengembangan teknologi web.
 | **Hizkia Permana Ginting** | 2403310051 | **Analyst** |  | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_2) |
 | **Ledyka Wahyuli** | 2403311915 | **UI** |  | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ldykawhyli) |
 | **Muhammad Zaky Ammar** | 2403310016 | **Front End** |  | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Zqkyyy) |
-| **Oswald Tobias Rafaello Siahaan** | 2403310036 | **Back End** |15% | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Waldeeee) |
+| **Oswald Tobias Rafaello Siahaan** | 2403310036 | **Back End** | | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Waldeeee) |
 | **Dinel Emka Primanta Tarigan** | 2403310098 | **Back End** | | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/DinelTarigan22) |
 | **Nabila Zahwa Ramadhani** | 2403310113 | **User Tester** |  | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/waazahwa) |
 
