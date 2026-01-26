@@ -3,7 +3,7 @@
     <img src="https://img.icons8.com/doodle/192/000000/doughnut.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">DonutThree</h1>
+  <h1 align="center">Website DonutThree</h1>
 
   <p align="center">
     <b>E-Commerce DonutThree — Tugas Pengembangan Web</b>
