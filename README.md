@@ -133,21 +133,17 @@ Kami adalah mahasiswa yang bersemangat dalam pengembangan teknologi web.
 
 | Nama Anggota | NPM / NIM | Peran (Role) | Kontak GitHub |
 | :--- | :--- | :--- | :---: |
-| **Fajar Biosan Bayu Sinaga** | 2403310091 | **Leader** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_1) |
+| **Fajar Biosan Bayu Sinaga** | 2403310091 | **Leader** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/FajarBiosanBayuSinaga) |
 | **Hizkia Permana Ginting** | 2403310051 | **Analyst** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_2) |
-| **Ledyka Wahyuli** | 2403311915 | **UI** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_3) |
-| **Muhammad Zaky Ammar** | 2403310016 | **Front End** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Zqkyyy) |
-| **Oswald Tobias Rafaello Siahaan** | 2403310036 | **Back End** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_3) |
-| **Dinel Emka Primanta Tarigan** | 2403310098 | **Back End** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_3) |
-| **Nabila Zahwa Ramadhani** | 2403310113 | **User Tester** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_3) |
+| **Ledyka Wahyuli** | 2403311915 | **UI** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ldykawhyli) |
+| **Muhammad Zaky Ammar** | 2403310016 | **Front End** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Zakyyy) |
+| **Oswald Tobias Rafaello Siahaan** | 2403310036 | **Back End** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Waldeeee) |
+| **Dinel Emka Primanta Tarigan** | 2403310098 | **Back End** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/DinelTarigan22) |
+| **Nabila Zahwa Ramadhani** | 2403310113 | **User Tester** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/waazahwa) |
 
 ---
 
-## 📄 Lisensi
-
-Didistribusikan di bawah Lisensi MIT.
-
 <div align="center">
   <br/>
-  <p>Dibuat dengan 🍩 dan ❤️ oleh <b>Tim DonutThree</b></p>
+  <p>Dibuat oleh <b>Team Dev 3 IF A Siang</b></p>
 </div>
