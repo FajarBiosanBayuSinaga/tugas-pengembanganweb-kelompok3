@@ -3,10 +3,10 @@
     <img src="https://img.icons8.com/doodle/192/000000/doughnut.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">Donuthree</h1>
+  <h1 align="center">DonutThree</h1>
 
   <p align="center">
-    <b>Platform E-Commerce Modern untuk Pecinta Donat</b>
+    <b>E-Commerce DonutThree Tugas Pengembangan Web</b>
     <br />
     <a href="#demo">Lihat Demo</a>
     ·
@@ -16,10 +16,18 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+    <a href="https://react.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+    </a>
   </p>
 </div>
 
@@ -41,7 +49,7 @@
 
 ## 🍩 Tentang Proyek
 
-**Donuthree** adalah aplikasi web *full-stack* yang dirancang untuk memberikan pengalaman memesan donat secara online yang mudah dan menyenangkan. Proyek ini dibangun sebagai bentuk kolaborasi tim untuk memenuhi tugas **[Sebutkan Mata Kuliah/Event]**.
+**DonutThree** adalah aplikasi web *full-stack* yang dirancang untuk memberikan pengalaman memesan donat secara online yang mudah dan menyenangkan. Proyek ini dibangun sebagai bentuk kolaborasi tim untuk memenuhi tugas **Pengembangan Web Semester 3**.
 
 Fokus utama kami adalah menciptakan antarmuka pengguna (UI) yang responsif, manajemen keranjang belanja yang *real-time*, serta simulasi alur pembayaran yang interaktif.
 
@@ -49,7 +57,7 @@ Fokus utama kami adalah menciptakan antarmuka pengguna (UI) yang responsif, mana
 
 ## 🌟 Fitur Unggulan
 
-Berikut adalah beberapa fitur kunci yang telah kami kembangkan:
+Berikut adalah beberapa fitur kunci yang telah kami kembangkan di **DonutThree**:
 
 * **Sistem Autentikasi:** Fitur Login dan Register yang aman untuk pengguna.
 * **Menu Dinamis:** Daftar produk donat yang terupdate dengan info harga dan stok.
@@ -68,9 +76,9 @@ Berikut adalah beberapa fitur kunci yang telah kami kembangkan:
 
 Proyek ini dibangun menggunakan *tech stack* berikut:
 
-* **Frontend:** [React.js](https://reactjs.org/), [React Router](https://reactrouter.com/), [Tailwind CSS](https://tailwindcss.com/)
+* **Frontend:** [React.js](https://react.dev/), [React Router](https://reactrouter.com/), [Tailwind CSS](https://tailwindcss.com/)
 * **Backend:** [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/)
-* **Database:** [MySQL](https://www.mysql.com/) (Atau sesuaikan jika pakai MongoDB/Firebase)
+* **Database:** [MySQL](https://www.mysql.com/)
 * **Aset:** Heroicons & Ilustrasi Open Source.
 
 ---
@@ -78,7 +86,7 @@ Proyek ini dibangun menggunakan *tech stack* berikut:
 ## 📸 Galeri
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Tampilan+Halaman+Utama" alt="Home Page" width="100%"/>
+  <img src="https://via.placeholder.com/800x400?text=Tampilan+Halaman+Utama+DonutThree" alt="Home Page" width="100%"/>
   <br/><br/>
   
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -91,7 +99,7 @@ Proyek ini dibangun menggunakan *tech stack* berikut:
 
 ## 🚀 Cara Instalasi
 
-Ikuti langkah-langkah di bawah ini untuk menjalankan proyek di komputer lokal (Localhost).
+Ikuti langkah-langkah di bawah ini untuk menjalankan **DonutThree** di komputer lokal (Localhost).
 
 ### Prasyarat
 
@@ -156,7 +164,7 @@ Kami adalah kelompok mahasiswa yang bersemangat dalam pengembangan web:
       </a><br />
       (UI/UX Designer)
     </td>
-    </tr>
+  </tr>
 </table>
 
 ---
@@ -167,5 +175,5 @@ Didistribusikan di bawah Lisensi MIT.
 
 <div align="center">
   <br/>
-  <p>Dibuat dengan 🍩 dan ❤️ oleh Tim Donuthree</p>
+  <p>Dibuat dengan 🍩 dan ❤️ oleh Tim DonutThree</p>
 </div>
