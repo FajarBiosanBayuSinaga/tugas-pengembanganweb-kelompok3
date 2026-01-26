@@ -6,7 +6,7 @@
   <h1 align="center">DonutThree</h1>
 
   <p align="center">
-    <b>E-Commerce DonutThree — Tugas Pengembangan Web</b>
+    <b>E-Commerce DonutThree</b>
     <br />
     <a href="#demo">Lihat Demo</a>
     ·
@@ -49,7 +49,7 @@
 
 ## 🍩 Tentang Proyek
 
-**DonutThree** adalah aplikasi web *full-stack* yang dirancang untuk memberikan pengalaman memesan donat secara online yang mudah, cepat, dan menyenangkan. Proyek ini dibangun sebagai bentuk kolaborasi tim untuk memenuhi tugas **Pengembangan Web Semester 3**.
+**DonutThree** adalah aplikasi web *full-stack* yang dirancang untuk memberikan pengalaman memesan donat secara online yang mudah, cepat, dan menyenangkan.
 
 Fokus utama kami adalah menciptakan antarmuka pengguna (UI) yang responsif, manajemen keranjang belanja yang *real-time*, serta simulasi alur pembayaran yang interaktif.
 
