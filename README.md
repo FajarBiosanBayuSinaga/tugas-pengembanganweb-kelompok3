@@ -87,7 +87,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan **DonutThree** di local env
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/FajarBiosanBayuSinaga/donuthree.git](https://github.com/FajarBiosanBayuSinaga/donuthree.git)
+    git clone [https://github.com/FajarBiosanBayuSinaga/Website-DonutThree.git](https://github.com/FajarBiosanBayuSinaga/Website-DonutThree.git)
     cd donuthree
     ```
 
