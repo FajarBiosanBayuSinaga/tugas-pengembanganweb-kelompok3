@@ -112,10 +112,6 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan **DonutThree** di local env
 ---
 
 
-FILE WEBSITE
-https://drive.google.com/file/d/1nAmIleyES1XZAqpzFSjx0zo5YzPZnswQ/view?usp=drivesdk
-
-
 ## 👥 Tim Kami
 
 Kami adalah mahasiswa yang bersemangat dalam pengembangan teknologi web.
