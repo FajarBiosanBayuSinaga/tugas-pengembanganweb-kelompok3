@@ -83,20 +83,6 @@ Proyek ini dibangun menggunakan *tech stack* berikut:
 
 ---
 
-## 📸 Galeri
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Tampilan+Halaman+Utama+DonutThree" alt="Home Page" width="100%" style="border-radius: 10px;"/>
-  <br/><br/>
-  
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://via.placeholder.com/400x250?text=Menu+Katalog" alt="Menu" width="48%" style="border-radius: 10px;"/>
-    <img src="https://via.placeholder.com/400x250?text=Fitur+Checkout+Peta" alt="Checkout" width="48%" style="border-radius: 10px;"/>
-  </div>
-</div>
-
----
-
 ## 🚀 Cara Instalasi
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan **DonutThree** di local environment:
