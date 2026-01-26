@@ -129,5 +129,5 @@ Kami adalah mahasiswa yang bersemangat dalam pengembangan teknologi web.
 
 <div align="center">
   <br/>
-  <p>Dibuat oleh <b>Team Dev 3 IF A Siang</b></p>
+  <p>Dibuat oleh <b>Team Dev</b></p>
 </div>
