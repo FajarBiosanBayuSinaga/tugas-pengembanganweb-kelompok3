@@ -40,7 +40,6 @@
     <li><a href="#fitur-unggulan">Fitur Unggulan</a></li>
     <li><a href="#teknologi-yang-digunakan">Teknologi</a></li>
     <li><a href="#cara-instalasi">Cara Instalasi</a></li>
-    <li><a href="#galeri">Galeri / Screenshots</a></li>
     <li><a href="#tim-kami">Tim Kami</a></li>
   </ol>
 </details>
