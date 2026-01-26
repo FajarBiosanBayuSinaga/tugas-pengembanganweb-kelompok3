@@ -6,13 +6,13 @@
   <h1 align="center">DonutThree</h1>
 
   <p align="center">
-    <b>E-Commerce DonutThree Tugas Pengembangan Web</b>
+    <b>E-Commerce DonutThree — Tugas Pengembangan Web</b>
     <br />
     <a href="#demo">Lihat Demo</a>
     ·
     <a href="#fitur-unggulan">Laporkan Bug</a>
     ·
-    <a href="#tim-kami">Kenalan dengan Tim</a>
+    <a href="#tim-kami">Tim Pengembang</a>
   </p>
 
   <p align="center">
@@ -34,7 +34,7 @@
 <br />
 
 <details>
-  <summary><b>Daftar Isi</b></summary>
+  <summary><b>📂 Daftar Isi</b></summary>
   <ol>
     <li><a href="#tentang-proyek">Tentang Proyek</a></li>
     <li><a href="#fitur-unggulan">Fitur Unggulan</a></li>
@@ -49,7 +49,7 @@
 
 ## 🍩 Tentang Proyek
 
-**DonutThree** adalah aplikasi web *full-stack* yang dirancang untuk memberikan pengalaman memesan donat secara online yang mudah dan menyenangkan. Proyek ini dibangun sebagai bentuk kolaborasi tim untuk memenuhi tugas **Pengembangan Web Semester 3**.
+**DonutThree** adalah aplikasi web *full-stack* yang dirancang untuk memberikan pengalaman memesan donat secara online yang mudah, cepat, dan menyenangkan. Proyek ini dibangun sebagai bentuk kolaborasi tim untuk memenuhi tugas **Pengembangan Web Semester 3**.
 
 Fokus utama kami adalah menciptakan antarmuka pengguna (UI) yang responsif, manajemen keranjang belanja yang *real-time*, serta simulasi alur pembayaran yang interaktif.
 
@@ -59,16 +59,16 @@ Fokus utama kami adalah menciptakan antarmuka pengguna (UI) yang responsif, mana
 
 Berikut adalah beberapa fitur kunci yang telah kami kembangkan di **DonutThree**:
 
-* **Sistem Autentikasi:** Fitur Login dan Register yang aman untuk pengguna.
-* **Menu Dinamis:** Daftar produk donat yang terupdate dengan info harga dan stok.
-* **Keranjang Belanja Pintar:** Kalkulasi total harga otomatis dan penyesuaian jumlah item.
-* **Checkout Interaktif:**
-    * Integrasi **Peta Lokasi** (Pinpoint) untuk menentukan alamat pengiriman.
-    * Validasi form pemesanan yang lengkap.
-* **Simulasi Pembayaran:**
-    * Generator **QRIS** otomatis sesuai total belanja.
-    * Informasi transfer bank dengan fitur "Salin Nomor Rekening".
-* **Desain Responsif:** Tampilan tetap rapi baik dibuka di Laptop, Tablet, maupun HP.
+* 🔐 **Sistem Autentikasi:** Login dan Register yang aman dengan validasi data.
+* 🍩 **Menu Dinamis:** Katalog produk yang terupdate *real-time* (Stok & Harga).
+* 🛒 **Keranjang Pintar:** Kalkulasi otomatis dan manajemen item yang mudah.
+* 📍 **Checkout Interaktif:**
+    * Integrasi Peta (Pinpoint location) untuk alamat pengiriman.
+    * Validasi form yang lengkap sebelum pemesanan.
+* 💳 **Simulasi Pembayaran:**
+    * Generator QRIS otomatis.
+    * Info transfer bank dengan fitur *copy-paste* rekening.
+* 📱 **Desain Responsif:** Tampilan optimal di Desktop, Tablet, dan Mobile.
 
 ---
 
@@ -86,12 +86,12 @@ Proyek ini dibangun menggunakan *tech stack* berikut:
 ## 📸 Galeri
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Tampilan+Halaman+Utama+DonutThree" alt="Home Page" width="100%"/>
+  <img src="https://via.placeholder.com/800x400?text=Tampilan+Halaman+Utama+DonutThree" alt="Home Page" width="100%" style="border-radius: 10px;"/>
   <br/><br/>
   
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://via.placeholder.com/400x250?text=Menu+Katalog" alt="Menu" width="48%"/>
-    <img src="https://via.placeholder.com/400x250?text=Fitur+Checkout+Peta" alt="Checkout" width="48%"/>
+    <img src="https://via.placeholder.com/400x250?text=Menu+Katalog" alt="Menu" width="48%" style="border-radius: 10px;"/>
+    <img src="https://via.placeholder.com/400x250?text=Fitur+Checkout+Peta" alt="Checkout" width="48%" style="border-radius: 10px;"/>
   </div>
 </div>
 
@@ -99,14 +99,7 @@ Proyek ini dibangun menggunakan *tech stack* berikut:
 
 ## 🚀 Cara Instalasi
 
-Ikuti langkah-langkah di bawah ini untuk menjalankan **DonutThree** di komputer lokal (Localhost).
-
-### Prasyarat
-
-* Node.js (Versi 14 ke atas)
-* NPM (Node Package Manager)
-
-### Langkah-langkah
+Ikuti langkah-langkah di bawah ini untuk menjalankan **DonutThree** di local environment:
 
 1.  **Clone Repository**
     ```bash
@@ -114,58 +107,39 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan **DonutThree** di komputer 
     cd donuthree
     ```
 
-2.  **Instalasi Backend**
+2.  **Setup Backend**
     ```bash
     cd backend
     npm install
-    # Jangan lupa atur konfigurasi database di file .env
+    # Konfigurasi file .env sesuai database kalian
     npm start
     ```
 
-3.  **Instalasi Frontend** (Buka terminal baru)
+3.  **Setup Frontend** (Buka terminal baru)
     ```bash
     cd frontend
     npm install
     npm start
     ```
 
-4.  **Selesai!**
-    Buka browser dan kunjungi `http://localhost:3000` untuk melihat aplikasi.
+4.  **Akses Aplikasi**
+    Buka browser dan kunjungi `http://localhost:3000`.
 
 ---
 
 ## 👥 Tim Kami
 
-Kami adalah kelompok mahasiswa yang bersemangat dalam pengembangan web:
+Kami adalah mahasiswa yang bersemangat dalam pengembangan teknologi web.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/USERNAME_GITHUB_1">
-        <img src="https://ui-avatars.com/api/?name=Nama+Satu&background=orange&color=fff" width="100px;" alt=""/>
-        <br />
-        <sub><b>Nama Anggota 1</b></sub>
-      </a><br />
-      (Frontend Developer)
-    </td>
-    <td align="center">
-      <a href="https://github.com/USERNAME_GITHUB_2">
-        <img src="https://ui-avatars.com/api/?name=Nama+Dua&background=random&color=fff" width="100px;" alt=""/>
-        <br />
-        <sub><b>Nama Anggota 2</b></sub>
-      </a><br />
-      (Backend Developer)
-    </td>
-    <td align="center">
-      <a href="https://github.com/USERNAME_GITHUB_3">
-        <img src="https://ui-avatars.com/api/?name=Nama+Tiga&background=random&color=fff" width="100px;" alt=""/>
-        <br />
-        <sub><b>Nama Anggota 3</b></sub>
-      </a><br />
-      (UI/UX Designer)
-    </td>
-  </tr>
-</table>
+| Nama Anggota | NPM / NIM | Peran (Role) | Kontak GitHub |
+| :--- | :--- | :--- | :---: |
+| **Fajar Biosan Bayu Sinaga** | 2403310091 | **Leader** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_1) |
+| **Hizkia Permana Ginting** | 2403310051 | **Analyst** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_2) |
+| **Ledyka Wahyuli** | 2403311915 | **UI** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_3) |
+| **Muhammad Zaky Ammar** | 2403310016 | **Front End** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_3) |
+| **Oswald Tobias Rafaello Siahaan** | 2403310036 | **Back End** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_3) |
+| **Dinel Emka Primanta Tarigan** | 2403310098 | **Back End** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_3) |
+| **Nabila Zahwa Ramadhani** | 2403310113 | **User Tester** | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME_3) |
 
 ---
 
@@ -175,5 +149,5 @@ Didistribusikan di bawah Lisensi MIT.
 
 <div align="center">
   <br/>
-  <p>Dibuat dengan 🍩 dan ❤️ oleh Tim DonutThree</p>
+  <p>Dibuat dengan 🍩 dan ❤️ oleh <b>Tim DonutThree</b></p>
 </div>
