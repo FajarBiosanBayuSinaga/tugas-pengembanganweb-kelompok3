@@ -4,12 +4,13 @@ tugas kelompok 3 mata kuliah pengembangan web
 
 | No | Nama | NIM | Tugas |
 |----|------|-----|-------|
-| 1  | Fajar Biosan Bayu Sinaga | 2403310091 | leader |
-| 2  | Nama 2 | 12345679 | Backend |
-| 3  | Nama 3 | 12345680 | Database |
-| 4  | Nama 4 | 12345681 | UI/UX |
-| 5  | Nama 5 | 12345682 | Dokumentasi |
-
+| 1  | Fajar Biosan Bayu Sinaga | 2403310091 | Leader |
+| 2  | Hizkia Permana Ginting | 2403310051 | Analyst |
+| 3  | Ledyka Wahyuli | 2403311915 | UI |
+| 4  | Muhammad Zaky Ammar | 2403310016 | Frontend |
+| 5  | Oswald Tobias Rafaello Siahaan | 2403310036 | Backend |
+| 6  | Dinel Emka Primanta Tarigan | 2403310098 | Backend |
+| 7  | Nabila Zahwa Ramadhani | 2403310113 | User Tester |
 
 ## Deskripsi
 Repository ini berisi tugas kelompok mata kuliah Pengembangan Web.
