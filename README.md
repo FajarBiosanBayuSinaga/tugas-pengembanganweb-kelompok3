@@ -3,7 +3,7 @@
     <img src="https://img.icons8.com/doodle/192/000000/doughnut.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">Website DonutThree</h1>
+  <h1 align="center">DonutThree</h1>
 
   <p align="center">
     <b>E-Commerce DonutThree — Tugas Pengembangan Web</b>
@@ -79,7 +79,6 @@ Proyek ini dibangun menggunakan *tech stack* berikut:
 * **Frontend:** [React.js](https://react.dev/), [React Router](https://reactrouter.com/), [Tailwind CSS](https://tailwindcss.com/)
 * **Backend:** [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/)
 * **Database:** [MySQL](https://www.mysql.com/)
-* **Aset:** Heroicons & Ilustrasi Open Source.
 
 ---
 
@@ -89,7 +88,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan **DonutThree** di local env
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-kalian/donuthree.git](https://github.com/username-kalian/donuthree.git)
+    git clone [https://github.com/FajarBiosanBayuSinaga/donuthree.git](https://github.com/FajarBiosanBayuSinaga/donuthree.git)
     cd donuthree
     ```
 
