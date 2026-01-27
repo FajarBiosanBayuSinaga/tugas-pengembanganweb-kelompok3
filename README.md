@@ -40,7 +40,7 @@
     <li><a href="#fitur-unggulan">Fitur Unggulan</a></li>
     <li><a href="#teknologi-yang-digunakan">Teknologi</a></li>
     <li><a href="#cara-instalasi">Cara Instalasi</a></li>
-    <li><a href="#tim-kami">Tim Kami</a></li>
+    <li><a href="#tim-kami">Tim</a></li>
   </ol>
 </details>
 
@@ -112,7 +112,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan **DonutThree** di local env
 ---
 
 
-## 👥 Tim Kami
+## 👥 Tim
 
 Kami adalah mahasiswa yang bersemangat dalam pengembangan teknologi web.
 
@@ -130,5 +130,5 @@ Kami adalah mahasiswa yang bersemangat dalam pengembangan teknologi web.
 
 <div align="center">
   <br/>
-  <p>Dibuat oleh <b>Team Dev</b></p>
+  <p>Dibuat oleh <b>Team Dev 3</b></p>
 </div>
