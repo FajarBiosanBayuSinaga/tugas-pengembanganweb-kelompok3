@@ -93,7 +93,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan **DonutThree** di local env
 
 2.  **Setup Backend**
     ```bash
-    cd backend
+    cd Back-End
     npm install
     # Konfigurasi file .env sesuai database kalian
     npm start
@@ -101,7 +101,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan **DonutThree** di local env
 
 3.  **Setup Frontend** (Buka terminal baru)
     ```bash
-    cd frontend
+    cd Front-End
     npm install
     npm start
     ```
